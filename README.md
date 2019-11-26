@@ -12,7 +12,7 @@
 
 ### 分支说明
 
-- 学习参考分支：[2018-08-07-study-spring-cloud](https://github.com/Darian1996/spring-cloud--2017/tree/2018-08-07-study-spring-cloud)
+- 学习参考分支：[2018-08-07-study-spring-cloud](https://github.com/Darian1996/spring-cloud-2017)
 
 
 
